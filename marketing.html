@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ALPHAVERSE — Marketing</title>
+  <link rel="stylesheet" href="marketing.css" />
+  <link rel="manifest" href="manifest.webmanifest" />
+</head>
+<body>
+<section id="marketing" class="av-hero">
+  <div class="av-container">
+    <header class="av-header">
+      <div class="av-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 64 64" aria-hidden="true">
+          <defs>
+            <linearGradient id="molten" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#ffd166" /><stop offset="100%" stop-color="#ff8c2b" /></linearGradient>
+            <linearGradient id="neon" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#8a5cf6" /><stop offset="100%" stop-color="#6de5ff" /></linearGradient>
+          </defs>
+          <g>
+            <path d="M20,6 L44,6 Q58,12 58,24 Q58,42 32,50 Q6,42 6,24 Q6,12 20,6 Z" fill="#1a1f2a" stroke="#2e3545" stroke-width="2"/>
+            <path d="M18,18 C24,14 34,12 40,11" stroke="url(#molten)" stroke-width="4" stroke-linecap="round"/>
+            <path d="M16,26 C24,22 34,20 42,19" stroke="url(#neon)" stroke-width="3.5" stroke-linecap="round"/>
+            <path d="M15,34 C23,30 35,28 43,27" stroke="url(#molten)" stroke-width="3" stroke-linecap="round"/>
+          </g>
+        </svg>
+      </div>
+      <div class="av-title">
+        <h1>ALPHAVERSE</h1>
+        <p class="av-sub">The Knowledge Arena</p>
+        <p class="av-tag">Conquer what you claim to know.</p>
+      </div>
+    </header>
+
+    <div class="av-copy">
+      <p class="lead">This isn’t your dad’s pub quiz. <span class="muted">This is where minds brawl.</span></p>
+      <p>Step into a universe of 20 realms — from <strong>mythology to medicine</strong>, <strong>psychology to physics</strong>, <strong>sex to survival</strong> — and prove your dominance one question at a time.</p>
+    </div>
+
+    <ul class="av-highlights">
+      <li><span>🔥</span><strong>Team Battles</strong> — Build your crew and climb.</li>
+      <li><span>🏆</span><strong>Public Leaderboards</strong> — Real-time rankings.</li>
+      <li><span>🎨</span><strong>Theme Toggle</strong> — Molten or neon (or auto).</li>
+      <li><span>🛠️</span><strong>Editor Mode</strong> — Create and share realms.</li>
+      <li><span>📸</span><strong>Share Cards</strong> — Brag with a 1200×630 PNG.</li>
+    </ul>
+
+    <div class="av-cta">
+      <a class="btn primary" href="index.html" role="button">Enter the Arena</a>
+      <a class="btn ghost" href="index.html#leaderboard" role="button">View Leaderboards</a>
+    </div>
+  </div>
+</section>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(console.error));
+  }
+</script>
+</body>
+</html>
