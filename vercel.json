@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "name": "alphaverse",
+  "public": true,
+  "builds": [
+    {
+      "src": "alphaverse/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*\\.(?:css|js|png|svg|ico|webmanifest))",
+      "dest": "alphaverse/$1"
+    },
+    {
+      "src": "/icons/(.*)",
+      "dest": "alphaverse/icons/$1"
+    },
+    {
+      "src": "/(sw\\.js)",
+      "dest": "alphaverse/$1"
+    },
+    {
+      "src": "/(logo\\.(?:png|svg))",
+      "dest": "alphaverse/$1"
+    },
+    {
+      "src": "/marketing",
+      "dest": "alphaverse/marketing.html"
+    },
+    {
+      "src": "/(?!.*\\.).*",
+      "dest": "alphaverse/index.html"
+    }
+  ]
+}
