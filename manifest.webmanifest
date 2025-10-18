@@ -1,7 +1,6 @@
 {
   "name": "ALPHAVERSE \u2014 The Knowledge Arena",
   "short_name": "Alphaverse",
-  "description": "Conquer what you claim to know. 20 realms, leaderboards, mixes, and team battles.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0b0d12",

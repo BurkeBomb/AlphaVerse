@@ -1,0 +1,531 @@
+{
+  "Tools & Tinkering": [
+    {
+      "q": "Proper order for tightening wheel nuts?",
+      "options": [
+        "Any",
+        "Clockwise",
+        "Criss-cross (star)"
+      ],
+      "correct": 2,
+      "correct_answer": "Criss-cross (star)"
+    },
+    {
+      "q": "WD-40 is for…",
+      "options": [
+        "Rust & loosening",
+        "Shaving",
+        "Cooking"
+      ],
+      "correct": 0,
+      "correct_answer": "Rust & loosening"
+    },
+    {
+      "q": "Torque wrench purpose:",
+      "options": [
+        "Break bolts loose",
+        "Precise tightness",
+        "Decoration"
+      ],
+      "correct": 1,
+      "correct_answer": "Precise tightness"
+    },
+    {
+      "q": "When drilling metal, first…",
+      "options": [
+        "Max RPM",
+        "Center-punch",
+        "Use wood bit"
+      ],
+      "correct": 1,
+      "correct_answer": "Center-punch"
+    }
+  ],
+  "Style & Swagger": [
+    {
+      "q": "Best test of cologne:",
+      "options": [
+        "Wrist",
+        "Walk-through",
+        "Ask your ex"
+      ],
+      "correct": 2,
+      "correct_answer": "Ask your ex"
+    },
+    {
+      "q": "Wardrobe rule:",
+      "options": [
+        "Trends define you",
+        "Fit + feel > trend",
+        "Only black"
+      ],
+      "correct": 1,
+      "correct_answer": "Fit + feel > trend"
+    },
+    {
+      "q": "Leather care starts with:",
+      "options": [
+        "Conditioning",
+        "Gentle cleaning",
+        "More cologne"
+      ],
+      "correct": 1,
+      "correct_answer": "Gentle cleaning"
+    },
+    {
+      "q": "Good haircut is:",
+      "options": [
+        "Your whole personality",
+        "A frame, not the art",
+        "Pointless"
+      ],
+      "correct": 1,
+      "correct_answer": "A frame, not the art"
+    }
+  ],
+  "Fire & Food": [
+    {
+      "q": "Medium-rare equals:",
+      "options": [
+        "Balance",
+        "Overcomplicate",
+        "Undercooked"
+      ],
+      "correct": 0,
+      "correct_answer": "Balance"
+    },
+    {
+      "q": "Braai tongs also for:",
+      "options": [
+        "Click like weapon",
+        "Point at guests",
+        "Sword fight"
+      ],
+      "correct": 0,
+      "correct_answer": "Click like weapon"
+    },
+    {
+      "q": "Fire won’t start, add:",
+      "options": [
+        "Patience",
+        "Petrol",
+        "More swearing"
+      ],
+      "correct": 2,
+      "correct_answer": "More swearing"
+    },
+    {
+      "q": "Resting meat:",
+      "options": [
+        "Dries it",
+        "Redistributes juices",
+        "Myth"
+      ],
+      "correct": 1,
+      "correct_answer": "Redistributes juices"
+    }
+  ],
+  "Grit & Growth": [
+    {
+      "q": "Strength is:",
+      "options": [
+        "Deadlift PR",
+        "Getting up when you don’t want to",
+        "Bench numbers"
+      ],
+      "correct": 1,
+      "correct_answer": "Getting up when you don’t want to"
+    },
+    {
+      "q": "Best habit change:",
+      "options": [
+        "All at once",
+        "Tiny daily steps",
+        "Only when motivated"
+      ],
+      "correct": 1,
+      "correct_answer": "Tiny daily steps"
+    },
+    {
+      "q": "Confidence sounds like:",
+      "options": [
+        "Watch this",
+        "I got this",
+        "Hold my beer"
+      ],
+      "correct": 1,
+      "correct_answer": "I got this"
+    },
+    {
+      "q": "When life gets messy:",
+      "options": [
+        "Build",
+        "Burn",
+        "Breathe, fix, repeat"
+      ],
+      "correct": 2,
+      "correct_answer": "Breathe, fix, repeat"
+    }
+  ],
+  "Legends & Lore": [
+    {
+      "q": "'Man in the Arena' author:",
+      "options": [
+        "T. Roosevelt",
+        "M. Aurelius",
+        "J. Rogan"
+      ],
+      "correct": 0,
+      "correct_answer": "T. Roosevelt"
+    },
+    {
+      "q": "MacGyver vs Batman (no prep):",
+      "options": [
+        "MacGyver",
+        "Batman",
+        "Bear Grylls steals gear"
+      ],
+      "correct": 0,
+      "correct_answer": "MacGyver"
+    },
+    {
+      "q": "Soundtrack for grit:",
+      "options": [
+        "AC/DC",
+        "Hans Zimmer",
+        "80s montage"
+      ],
+      "correct": 1,
+      "correct_answer": "Hans Zimmer"
+    },
+    {
+      "q": "'Man up' means:",
+      "options": [
+        "Hide emotion",
+        "Do what's needed",
+        "Pretend you're fine"
+      ],
+      "correct": 1,
+      "correct_answer": "Do what's needed"
+    }
+  ],
+  "Medical & Body": [
+    {
+      "q": "RICE stands for:",
+      "options": [
+        "Rest, Ice, Compress, Elevate",
+        "Run, Ice, Carry, Eat",
+        "Rest, Inject, Cool, Ease"
+      ],
+      "correct": 0,
+      "correct_answer": "Rest, Ice, Compress, Elevate"
+    },
+    {
+      "q": "Normal resting heart rate (adult):",
+      "options": [
+        "30–50 bpm",
+        "60–100 bpm",
+        "110–140 bpm"
+      ],
+      "correct": 1,
+      "correct_answer": "60–100 bpm"
+    },
+    {
+      "q": "Hydration indicator:",
+      "options": [
+        "Dark urine",
+        "Light urine",
+        "No sweat"
+      ],
+      "correct": 1,
+      "correct_answer": "Light urine"
+    }
+  ],
+  "TV & Film": [
+    {
+      "q": "'I'll be back' is from:",
+      "options": [
+        "Predator",
+        "Terminator",
+        "Die Hard"
+      ],
+      "correct": 1,
+      "correct_answer": "Terminator"
+    },
+    {
+      "q": "Director of Inception:",
+      "options": [
+        "Nolan",
+        "Fincher",
+        "Villeneuve"
+      ],
+      "correct": 0,
+      "correct_answer": "Nolan"
+    }
+  ],
+  "Sport & Strength": [
+    {
+      "q": "Soccer: players per side on field:",
+      "options": [
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 2,
+      "correct_answer": "11"
+    },
+    {
+      "q": "Deadlift primarily targets:",
+      "options": [
+        "Quads",
+        "Posterior chain",
+        "Biceps"
+      ],
+      "correct": 1,
+      "correct_answer": "Posterior chain"
+    }
+  ],
+  "History & Warfare": [
+    {
+      "q": "WWII ended:",
+      "options": [
+        "1943",
+        "1945",
+        "1947"
+      ],
+      "correct": 1,
+      "correct_answer": "1945"
+    },
+    {
+      "q": "Hannibal crossed which mountains:",
+      "options": [
+        "Andes",
+        "Alps",
+        "Atlas"
+      ],
+      "correct": 1,
+      "correct_answer": "Alps"
+    }
+  ],
+  "Ladies & Love": [
+    {
+      "q": "Best apology includes:",
+      "options": [
+        "Excuse",
+        "Ownership + impact + ask",
+        "Silence"
+      ],
+      "correct": 1,
+      "correct_answer": "Ownership + impact + ask"
+    },
+    {
+      "q": "Good first date rule:",
+      "options": [
+        "Monologue",
+        "Ask, listen, pace",
+        "Overshare exes"
+      ],
+      "correct": 1,
+      "correct_answer": "Ask, listen, pace"
+    }
+  ],
+  "Psychology": [
+    {
+      "q": "Confirmation bias is:",
+      "options": [
+        "Seeking disconfirming info",
+        "Favoring beliefs-confirming info",
+        "Memory loss"
+      ],
+      "correct": 1,
+      "correct_answer": "Favoring beliefs-confirming info"
+    },
+    {
+      "q": "Attachment styles include:",
+      "options": [
+        "Secure, anxious, avoidant",
+        "Fixed, growth",
+        "Intro, extro"
+      ],
+      "correct": 0,
+      "correct_answer": "Secure, anxious, avoidant"
+    }
+  ],
+  "Language & Literature": [
+    {
+      "q": "'To be, or not to be' author:",
+      "options": [
+        "Marlowe",
+        "Shakespeare",
+        "Chaucer"
+      ],
+      "correct": 1,
+      "correct_answer": "Shakespeare"
+    },
+    {
+      "q": "A sonnet has:",
+      "options": [
+        "10 lines",
+        "12 lines",
+        "14 lines"
+      ],
+      "correct": 2,
+      "correct_answer": "14 lines"
+    }
+  ],
+  "Geography": [
+    {
+      "q": "Capital of South Africa (executive):",
+      "options": [
+        "Cape Town",
+        "Pretoria",
+        "Johannesburg"
+      ],
+      "correct": 1,
+      "correct_answer": "Pretoria"
+    },
+    {
+      "q": "Largest ocean:",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific"
+      ],
+      "correct": 2,
+      "correct_answer": "Pacific"
+    }
+  ],
+  "Arts & Culture": [
+    {
+      "q": "Mona Lisa painter:",
+      "options": [
+        "Michelangelo",
+        "da Vinci",
+        "Raphael"
+      ],
+      "correct": 1,
+      "correct_answer": "da Vinci"
+    },
+    {
+      "q": "Jazz originated mainly in:",
+      "options": [
+        "USA",
+        "France",
+        "Brazil"
+      ],
+      "correct": 0,
+      "correct_answer": "USA"
+    }
+  ],
+  "Science & Technology": [
+    {
+      "q": "H2O is:",
+      "options": [
+        "Hydrogen peroxide",
+        "Water",
+        "Ozone"
+      ],
+      "correct": 1,
+      "correct_answer": "Water"
+    },
+    {
+      "q": "Earth orbits the sun in:",
+      "options": [
+        "24h",
+        "365 days",
+        "30 days"
+      ],
+      "correct": 1,
+      "correct_answer": "365 days"
+    }
+  ],
+  "Religion & Belief": [
+    {
+      "q": "Sikh place of worship:",
+      "options": [
+        "Temple",
+        "Gurdwara",
+        "Mosque"
+      ],
+      "correct": 1,
+      "correct_answer": "Gurdwara"
+    },
+    {
+      "q": "Five Pillars belong to:",
+      "options": [
+        "Hinduism",
+        "Islam",
+        "Judaism"
+      ],
+      "correct": 1,
+      "correct_answer": "Islam"
+    }
+  ],
+  "Mythology": [
+    {
+      "q": "Norse thunder god:",
+      "options": [
+        "Odin",
+        "Thor",
+        "Loki"
+      ],
+      "correct": 1,
+      "correct_answer": "Thor"
+    },
+    {
+      "q": "Greek underworld ruler:",
+      "options": [
+        "Zeus",
+        "Hades",
+        "Ares"
+      ],
+      "correct": 1,
+      "correct_answer": "Hades"
+    }
+  ],
+  "Fantasy & Fiction": [
+    {
+      "q": "Ring in LOTR:",
+      "options": [
+        "Frodo",
+        "Aragorn",
+        "Gandalf"
+      ],
+      "correct": 0,
+      "correct_answer": "Frodo"
+    },
+    {
+      "q": "Valyrian steel is from:",
+      "options": [
+        "Wheel of Time",
+        "Game of Thrones",
+        "The Witcher"
+      ],
+      "correct": 1,
+      "correct_answer": "Game of Thrones"
+    }
+  ],
+  "Sex & Relationships": [
+    {
+      "q": "Consent is:",
+      "options": [
+        "Assumed if dating",
+        "Clear, enthusiastic, ongoing",
+        "Only verbal"
+      ],
+      "correct": 1,
+      "correct_answer": "Clear, enthusiastic, ongoing"
+    },
+    {
+      "q": "Aftercare is:",
+      "options": [
+        "Unnecessary",
+        "Part of responsible intimacy",
+        "Only for injuries"
+      ],
+      "correct": 1,
+      "correct_answer": "Part of responsible intimacy"
+    }
+  ],
+  "Mixed (All)": []
+}
